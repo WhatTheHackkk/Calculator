@@ -19,7 +19,6 @@ body{
 #display{
     height: 80px;
     width: 100%;
-    overflow:hidden;
     color: white;
     border-radius: 10px;
     max-width: 540px;
