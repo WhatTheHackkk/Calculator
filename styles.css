@@ -6,7 +6,6 @@ body{
     color: white;
     font-size: 30px;
     background: linear-gradient(320deg,rgb(0, 255, 170),rgba(81, 206, 255, 0.774),rgb(255, 0, 195));
-    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
